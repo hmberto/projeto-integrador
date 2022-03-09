@@ -1,0 +1,3 @@
+[submodule "projeto-integrador-backend"]
+	path = projeto-integrador-backend
+	url = git@github.com:hmberto/projeto-integrador-backend.git
