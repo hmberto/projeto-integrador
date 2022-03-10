@@ -1,4 +1,11 @@
 # Integrated project
+Term Paper
+
+## Team
+* [Humberto](https://github.com/hmberto)
+* [Vinicius](https://github.com/vinimelo92)
+* [Lucas](https://github.com)
+* [Allan](https://github.com)
 
 | Repository | URL |
 |--- |--- |
