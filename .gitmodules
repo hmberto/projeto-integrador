@@ -1,3 +1,7 @@
+[submodule "projeto-integrador-backend"]
+	path = projeto-integrador-backend
+	url = git@github.com:hmberto/projeto-integrador-backend.git
+	branch = master
 [submodule "projeto-integrador-frontend"]
 	path = projeto-integrador-frontend
 	url = git@github.com:vinimelo92/projeto-integrador-frontend.git
