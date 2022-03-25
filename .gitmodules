@@ -5,3 +5,4 @@
 [submodule "projeto-integrador-frontend"]
 	path = projeto-integrador-frontend
 	url = git@github.com:vinimelo92/projeto-integrador-frontend.git
+	branch = main
